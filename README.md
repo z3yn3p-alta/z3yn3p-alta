@@ -1,30 +1,38 @@
-## Hi there 👋
+## Hi Hi 👋
 
-👋 Hi, I’m Zeynep Alta  
-Junior Computer Science Student | Passionate about accessible tech, human-computer interaction, and data-driven solutions.
+👋 Hi, I’m Zey! 
+3/4 Computer Science Student @ Stevens Institute of Technology |
+Involved in Human-Computer Interaction Research |
+PR Chair of Stevens WiCS |
+Passionate about accessible tech and data-driven solutions, take a look at my profile!!!
 
 🎯 Current Goals  
 - Ace my finals and finish the semester strong!  
-- Wrap up exciting projects:  
-  - Enhancing Workday's course selection system to improve clarity and user experience.  
+- Wrap up some exciting projects:  
+  - Enhancing Workday's course selection system to improve clarity and user experience in course scheduling.  
   - Developing a dynamic typing trainer that matches typing speed with rhythmic beats.  
 
 🛠️ Languages  
-- Python, JavaScript, Java, C, SQL  
+- Python
+- JavaScript
+- Java
+- C
+- C++
+- SQL  
 
 📜 Certificates  
-- Google Data Analytics Professional Certificate  
-- AWS Certified Cloud Practitioner  
-- Breakthrough Tech ML Fellowship  
+- Machine Learning Foundations - Cornell Tech's Break Through Tech Program
 
-🌱 Interests  
-- Human-Computer Interaction & Accessibility  
+🌱 Interests & Hobbies
+- Philanthropy & Empowering Women
+    - Proud sister of Delta Phi Epsilon! Much hard work goes into supporting CFF & ANAD.
+    - Love building our community through SWiCS!
+- Human-Computer Interaction & Accessibility
+- Minecraft Pro (or trying to be at least)
 - Machine Learning & Data Science  
-- Web Development & UI/UX Design  
-- Building tech solutions that empower users  
 
 📫 Contact Me  
-- Email: zeynep.alta@example.com  
+- Email: zeynep.e.alta@gmail.com  
 - LinkedIn: [linkedin.com/in/zeynepalta](https://linkedin.com/in/zeynepalta)  
 
 <!--
