@@ -1,9 +1,9 @@
 ## Hi Hi 👋
 
-👋 Hi, I’m Zey! 
-3/4 Computer Science Student @ Stevens Institute of Technology |
-Involved in Human-Computer Interaction Research |
-PR Chair of Stevens WiCS |
+👋 Hi, I’m Zey!   
+3/4 Computer Science Student @ Stevens Institute of Technology |  
+Involved in Human-Computer Interaction Research |  
+PR Chair of Stevens WiCS |  
 Passionate about accessible tech and data-driven solutions, take a look at my profile!!!
 
 🎯 Current Goals  
